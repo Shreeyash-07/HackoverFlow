@@ -1,0 +1,20 @@
+#themes-section {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#themes-section h1 {
+    font-family: 'Helvetica Bold';
+}
+
+.themes-tiles img {
+    height: 200px;
+    width: 200px;
+
+}
+
+.themes-tiles figcaption {
+    font-family: 'Helvetica';
+    text-align: center;
+    font-size: 23px;
+}
